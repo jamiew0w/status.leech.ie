@@ -29,7 +29,7 @@ status-website:
   name: status.leech.ie
 
 i18n:
-  footer:
+  footer: <a href="https://leech.ie" target="_blank">leech.ie</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
