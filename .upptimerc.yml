@@ -2,6 +2,9 @@
 owner: jamiew0w
 repo: status.leech.ie
 
+status-page:
+  theme: "dark"
+  
 # Add your sites here
 sites:
   - name: leech.ie
