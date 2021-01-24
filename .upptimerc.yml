@@ -1,9 +1,6 @@
 # Change these first
 owner: jamiew0w
 repo: status.leech.ie
-
-status-page:
-  theme: "dark"
   
 # Add your sites here
 sites:
@@ -30,6 +27,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.leech.ie
+  theme: "dark"
 
 i18n:
   footer: <a href="https://leech.ie" target="_blank">leech.ie</a>
