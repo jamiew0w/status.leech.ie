@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 911,
-    "timeDay": 830,
+    "timeDay": 832,
     "timeWeek": 929,
     "timeMonth": 911,
     "timeYear": 911,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 803,
+    "timeDay": 802,
     "timeWeek": 850,
     "timeMonth": 837,
     "timeYear": 837,
@@ -60,17 +60,15 @@
     "slug": "t3-leech-ie",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
-    "timeDay": 728,
+    "timeDay": 734,
     "timeWeek": 721,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2021-01-29": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
