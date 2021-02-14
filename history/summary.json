@@ -11,7 +11,7 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.05%",
     "time": 705,
-    "timeDay": 190,
+    "timeDay": 192,
     "timeWeek": 496,
     "timeMonth": 705,
     "timeYear": 705,
@@ -32,7 +32,7 @@
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.06%",
     "time": 879,
-    "timeDay": 344,
+    "timeDay": 345,
     "timeWeek": 686,
     "timeMonth": 879,
     "timeYear": 879,
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 174,
-    "timeWeek": 476,
+    "timeDay": 175,
+    "timeWeek": 475,
     "timeMonth": 650,
     "timeYear": 650,
     "dailyMinutesDown": {}
@@ -65,18 +65,16 @@
     "icon": "https://leech.ie/favicon.png",
     "slug": "t3-leech-ie",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 253,
-    "timeWeek": 500,
+    "timeWeek": 499,
     "timeMonth": 636,
     "timeYear": 636,
-    "dailyMinutesDown": {
-      "2021-02-14": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
