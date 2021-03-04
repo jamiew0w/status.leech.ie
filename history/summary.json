@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 188,
+    "timeDay": 190,
     "timeWeek": 196,
     "timeMonth": 337,
     "timeYear": 467,
@@ -22,53 +22,59 @@
     "url": "http://t1.leech.ie",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t1-leech-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 345,
-    "timeWeek": 341,
-    "timeMonth": 503,
+    "timeDay": 380,
+    "timeWeek": 345,
+    "timeMonth": 504,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-04": 1
+    }
   },
   {
     "name": "t2.leech.ie",
     "url": "http://t2.leech.ie",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t2-leech-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
-    "timeDay": 166,
+    "timeDay": 175,
     "timeWeek": 172,
     "timeMonth": 318,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-04": 1
+    }
   },
   {
     "name": "t3.leech.ie",
     "url": "http://t3.leech.ie",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t3-leech-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 250,
+    "timeDay": 248,
     "timeWeek": 241,
     "timeMonth": 365,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-04": 1
+    }
   }
 ]
