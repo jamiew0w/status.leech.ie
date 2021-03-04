@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 193,
-    "timeWeek": 196,
+    "timeDay": 194,
+    "timeWeek": 197,
     "timeMonth": 334,
     "timeYear": 467,
     "dailyMinutesDown": {}
@@ -23,18 +23,18 @@
     "icon": "https://leech.ie/favicon.png",
     "slug": "t1-leech-ie",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.46%",
+    "uptimeDay": "75.67%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.46%",
     "time": 634,
-    "timeDay": 385,
+    "timeDay": 389,
     "timeWeek": 346,
-    "timeMonth": 501,
+    "timeMonth": 500,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2021-03-04": 292
+      "2021-03-04": 350
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://leech.ie/favicon.png",
     "slug": "t2-leech-ie",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "79.69%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.46%",
+    "uptimeDay": "75.67%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.46%",
     "time": 431,
-    "timeDay": 174,
-    "timeWeek": 173,
-    "timeMonth": 316,
+    "timeDay": 173,
+    "timeWeek": 172,
+    "timeMonth": 315,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2021-03-04": 293
+      "2021-03-04": 350
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://leech.ie/favicon.png",
     "slug": "t3-leech-ie",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.46%",
+    "uptimeDay": "75.70%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.46%",
     "time": 452,
-    "timeDay": 234,
+    "timeDay": 237,
     "timeWeek": 241,
     "timeMonth": 362,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2021-03-04": 292
+      "2021-03-04": 350
     }
   }
 ]
