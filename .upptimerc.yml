@@ -8,13 +8,13 @@ sites:
     url: https://leech.ie
     icon: https://leech.ie/favicon.png
   - name: t1.leech.ie
-    url: http://t1.leech.ie
+    url: http://t1.leech.ie:6969
     icon: https://leech.ie/favicon.png
   - name: t2.leech.ie
-    url: http://t2.leech.ie
+    url: http://t2.leech.ie:6969
     icon: https://leech.ie/favicon.png
   - name: t3.leech.ie
-    url: http://t3.leech.ie
+    url: http://t3.leech.ie:6969
     icon: https://leech.ie/favicon.png
 
 assignees:
