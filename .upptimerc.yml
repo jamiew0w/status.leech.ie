@@ -22,6 +22,8 @@ sites:
     expectedStatusCodes:
       - 404
     icon: https://leech.ie/favicon.png
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
 
 assignees:
   - jamiew0w
