@@ -10,7 +10,7 @@
 name: Response Time CI
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 23 * * *"
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
@@ -29,5 +29,5 @@ jobs:
         with:
           command: "response-time"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
