@@ -22,9 +22,9 @@
     "url": "http://t1.leech.ie:1338",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t1-leech-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 349,
     "timeMonth": 361,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 0
+    }
   },
   {
     "name": "t2.leech.ie",
