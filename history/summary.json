@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 186,
-    "timeWeek": 164,
+    "timeDay": 187,
+    "timeWeek": 163,
     "timeMonth": 162,
     "timeYear": 348,
     "dailyMinutesDown": {}
@@ -24,18 +24,16 @@
     "slug": "t1-leech-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 617,
-    "timeWeek": 402,
+    "timeDay": 598,
+    "timeWeek": 403,
     "timeMonth": 369,
     "timeYear": 516,
-    "dailyMinutesDown": {
-      "2021-05-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "t2.leech.ie",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 240,
-    "timeWeek": 181,
-    "timeMonth": 172,
+    "timeDay": 276,
+    "timeWeek": 188,
+    "timeMonth": 173,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 747,
-    "timeWeek": 390,
+    "timeDay": 755,
+    "timeWeek": 391,
     "timeMonth": 306,
     "timeYear": 370,
     "dailyMinutesDown": {}
