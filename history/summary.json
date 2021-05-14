@@ -40,19 +40,19 @@
     "url": "http://t2.leech.ie:1338",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t2-leech-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 276,
+    "timeDay": 273,
     "timeWeek": 188,
     "timeMonth": 173,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2021-05-14": 1
+      "2021-05-14": 8
     }
   },
   {
@@ -69,7 +69,7 @@
     "time": 370,
     "timeDay": 755,
     "timeWeek": 391,
-    "timeMonth": 306,
+    "timeMonth": 307,
     "timeYear": 370,
     "dailyMinutesDown": {}
   }
