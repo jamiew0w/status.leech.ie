@@ -22,11 +22,11 @@
     "url": "http://t1.leech.ie:1338",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t1-leech-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 347,
@@ -34,7 +34,7 @@
     "timeMonth": 407,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2021-06-04": 1
+      "2021-06-04": 5
     }
   },
   {
@@ -42,7 +42,7 @@
     "url": "http://t2.leech.ie:1338",
     "icon": "https://leech.ie/favicon.png",
     "slug": "t2-leech-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "95.52%",
     "uptimeWeek": "99.18%",
@@ -50,7 +50,7 @@
     "uptimeYear": "99.96%",
     "time": 312,
     "timeDay": 153,
-    "timeWeek": 212,
+    "timeWeek": 211,
     "timeMonth": 207,
     "timeYear": 312,
     "dailyMinutesDown": {
