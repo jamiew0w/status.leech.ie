@@ -7,19 +7,9 @@ sites:
   - name: leech.ie
     url: https://leech.ie
     icon: https://leech.ie/favicon.png
-  - name: t1.leech.ie
+  - name: tracker.leech.ie
     check: "tcp-ping"
     url: t1.leech.ie
-    port: 4747
-    icon: https://leech.ie/favicon.png
-  - name: t2.leech.ie
-    check: "tcp-ping"
-    url: t2.leech.ie
-    port: 4747
-    icon: https://leech.ie/favicon.png
-  - name: t3.leech.ie
-    check: "tcp-ping"
-    url: t3.leech.ie
     port: 4747
     icon: https://leech.ie/favicon.png
 
